@@ -1,0 +1,58 @@
+
+
+/* mobile */
+@media (max-width:739px) { 
+    /* header */
+    #header {
+        overflow: hidden;
+    }
+    #header .search-btn{
+        display: none;
+    }
+    #nav {
+        display: block;
+    }
+    #nav > li{
+        display: block;
+    }
+    #nav > li:first-child{
+        display: inline-block;
+    }
+    #nav li a {
+        display: block;
+    }
+    #nav .subnav{
+        position: inherit;
+        background-color: #333;
+    }
+    #nav .subnav  a{
+        color:#fff ; 
+        padding: 5px 41px;
+    }
+    /* content */
+    #content .member-item{
+        width: 100%;
+        margin-top: 30px;
+    }
+    #content  .member-img{
+        width: 60%;
+    }
+    /* places */
+    .places-list .places-item{
+        width: 100;
+    }
+}
+
+/* tablet */
+@media (min-width:740px) and (max-width:1023px) {
+    .mobile-menu-btn {
+        display: none;
+    }
+}
+
+/* PC */
+@media (min-width:1024px) { 
+    .mobile-menu-btn {
+        display: none;
+    }
+}

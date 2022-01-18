@@ -1,0 +1,38 @@
+
+#         cac buoc thuc hanh : 
+#         1 . Phan tich
+#         2 . dung base
+#         3 . Xay dung tung phan theo phan tich
+#         4 . hoan thien 
+
+
+#         1. Nhung thanh phan thuong gap tren website
+#           - Header
+#           - Navigation(dieu huong )
+#           - breadcrumb  ( chi vi tri trang mk dang o)
+#           - Banner
+#           - Sidebar
+#           - slider 
+#           - content ( noi dung chinh )
+#           - footer : chan trang)
+#  https://www.w3schools.com/w3css/tryw3css_templates_band.htm
+
+# 1. PHAN TICH
+#  --====== THEBAND=====
+#     1. Header
+#     2. slider
+#     3. content
+#        -- About
+#        -- Tour
+#        -- Contact
+#        -- image
+
+#     4.footer
+
+# 2. Tao khung 
+
+
+    1 . vi tri 
+    2 . kich thuoc
+    3 . mau sac
+    4 . kieu dang(kieu chu , hinh tron....)
